@@ -1,4 +1,5 @@
-import { ACTIONS } from "../App";
+import ACTIONS from "../constants/actions";
+
 
 function OperationButton({ operation, dispatch, className = "" }) {
   return (

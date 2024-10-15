@@ -1,4 +1,4 @@
-import { ACTIONS } from "../App";
+import ACTIONS from "../constants/actions";
 
 function DigitButton({ dispatch, digit }) {
   return (
